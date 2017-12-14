@@ -1,6 +1,9 @@
 # cryptomodelling
 Modelling cryptoeconomic systems based on blockchain
 
+run 
+%python model_indium.py
+
 Some of the key questions to model
 1. How does release schedule of a token affect the ability of the project to achieve its goals?
 2. What is the ideal number of tokens to be issued?
